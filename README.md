@@ -8,7 +8,9 @@ Screen Zoom Recorder is a lightweight Windows screen recording app for creators,
 
 ## Download
 
-**[Download the latest installer for Windows 10 or Windows 11 (64-bit)](../../releases/latest)**
+**[Download Screen Zoom Recorder v1.0.0 installer (.exe, direct link)](https://github.com/sahilbrandwala/ScreenZoomRecorder-releases/releases/download/v1.0.0/Screen.Zoom.Recorder_Setup.exe)**
+
+[All releases and version history](../../releases/latest)
 
 No .NET runtime install required. FFmpeg is bundled inside the installer, so the first launch works completely offline.
 
